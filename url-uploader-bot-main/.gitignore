@@ -1,0 +1,11 @@
+myenv/
+.env
+__pycache__/
+uploads/
+photos/
+.vscode/
+.cache
+botenv/
+test.html
+test.py
+test.json
